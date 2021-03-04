@@ -1,0 +1,51 @@
+
+.gmail-images{
+    display:flex;
+}
+.gmail-images div{
+    margin-right: 10px;
+}
+.menu svg{
+    width: 25px;
+}
+.action-controls{
+    display:flex;
+
+}
+.menu-profile{
+    display:flex;
+    align-items:center;
+}
+.profile img{
+    border-radius: 50%;
+}
+.menu-profile div{
+    margin-right: 10px;
+}
+.action-controls{
+    margin-left: 1300px;
+}
+nav{
+    text-align: right;
+}
+
+.google-cover{
+    width: 300px;
+    margin: 200px auto;
+    margin-bottom: 50px;
+}
+.search-area{
+    border: 1px solid rgb(128, 128, 128);
+    width: 540px;
+    height: 50px;
+    margin: 0px auto;
+    border-radius: 20px;
+}
+
+.buttons{
+    margin-top: 30px;
+}
+.description{
+    width: 300px;
+    margin: 2px auto;
+}
